@@ -124,6 +124,8 @@ try {
 }
 
 start.addEventListener('click', (e) => {
+    
+    storeSpeakData.value = "";
     // alert('start service');
     started.style.display = 'block';
     stopped.style.display = 'none';
