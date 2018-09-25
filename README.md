@@ -3,7 +3,7 @@
 Web Speech Synthesis component is created using simple JavaScript. It takes input from user through voice or text and gives respective output.
 
 ## Output Format
-<p align='center'><img src="https://github.com/KNVSAIRAM/dynamic-accordion/blob/master/Images/output1.jpg"></p>
+<p align='center'><img src="https://github.com/SairamPotta/Web-Speech-Synthesis/blob/master/Image/Capture.PNG?raw=true"></p>
 
 To preview demo of Web-Speech-Synthesis Project, [Click Here](https://stackblitz.com/edit/js-7v2lxq?embed=1&file=index.js&view=preview)
 
