@@ -5,7 +5,7 @@ Web Speech Synthesis component is created using simple JavaScript. It takes inpu
 ## Output Format
 <p align='center'><img src="https://github.com/SairamPotta/Web-Speech-Synthesis/blob/master/Image/Capture.PNG?raw=true"></p>
 
-To preview demo of Web-Speech-Synthesis Project, [Click Here](https://stackblitz.com/edit/js-7v2lxq?embed=1&file=index.js&view=preview)
+To preview demo of Web-Speech-Synthesis Project, [Click Here](https://js-7v2lxq.stackblitz.io/)
 
 ## Getting Started
 Download the Web-Speech-Synthesis project and run the **index.html** file.
