@@ -38,4 +38,10 @@ Download the Web-Speech-Synthesis project and run the **index.html** file.
   
   Above fields are mandatory to maintain
     
-    
+  ## How To Use
+  
+   ### Text to Voice
+      First user have to enter text in text box, then select the rate, pitch and language of voice then click on listen to text.
+      
+   ### Voice to Text
+      First user have to click on speak it button then it starts voice recording, once it is done user has to click on stop it button then resultant text will be appear in text box.
