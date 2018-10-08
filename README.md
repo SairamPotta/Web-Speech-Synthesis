@@ -45,6 +45,5 @@ Download the Web-Speech-Synthesis project and run the **index.html** file.
       click on listen to text.
       
    ### Voice to Text
-      First user have to click on speak it button then it starts voice recording, 
-      once it is done user has to click on stop it button then resultant 
-      text will be appear in text box.
+      First user have to click on speak it button then it starts voice recording, once it is done user has to 
+      click on stop it button then resultant text will be appear in text box.
